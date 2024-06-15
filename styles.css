@@ -1,0 +1,69 @@
+.background-image-home{
+    background-image: url('./london-blog-1.jpg');
+    width: auto;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content-history p{
+    width: 48vw;
+
+}
+.content-history{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5vw;
+  background-color: aliceblue;
+  padding-top: 19px;
+
+}
+
+.map{
+    display: flex;
+    margin-top: 45px;
+  justify-content: center;
+}
+.content-culture{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vw;
+    background-color: aliceblue;
+    padding-top: 19px;
+}
+.content-culture p{
+    width: 48vw;
+    margin-top: 2vw;
+
+}
+.gallery{
+    display: flex;
+  gap: 65px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 2vw;
+}
+.gallery img{
+    width: 32vw;
+}
+
+.visit img{
+    width: 16vw;
+}
+.visit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vw;
+    background-color: aliceblue;
+    padding-top: 19px;
+}
+.visit p{
+    width: 48vw;
+    margin-top: 2vw;
+
+}
